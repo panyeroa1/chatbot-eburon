@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-**Welcome to Chatbot Ollama!**
+**Welcome to Eburon Model!**
 
 We appreciate your interest in contributing to our project.
 
@@ -22,7 +22,7 @@ We welcome the following types of contributions:
 To get started, fork the project on GitHub and clone it locally on your machine. Then, create a new branch to work on your changes.
 
 ```bash
-git clone https://github.com/ivanfioravanti/chatbot-ollama.git
+git clone https://eburon.ai/.git
 cd chatbot-ollama
 git checkout -b my-branch-name
 ```

@@ -1,14 +1,14 @@
-# Chatbot Ollama
+# Eburon Model
 
 ## About
 
-Chatbot Ollama is an open source chat UI for Ollama.
+Eburon Model is an open source chat UI for Ollama.
 
 This project is based on [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) by [Mckay Wrigley](https://github.com/mckaywrigley).
 
-![Chatbot Ollama – Dark](./public/screenshots/screenshot-2025-09-dark.png)
+![Eburon Model – Dark](./public/screenshots/screenshot-2025-09-dark.png)
 
-![Chatbot Ollama – Light](./public/screenshots/screenshot-2025-09-light.png)
+![Eburon Model – Light](./public/screenshots/screenshot-2025-09-light.png)
 
 > If the image does not render, place the new screenshot at `public/screenshots/screenshot-2025-09-dark.png` (light version optional at `public/screenshots/screenshot-2025-09-light.png`).
 
@@ -33,7 +33,7 @@ This project is based on [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui
 
 ## Updates
 
-Chatbot Ollama will be updated over time.
+Eburon Model will be updated over time.
 
 ### Next up
 
@@ -60,7 +60,7 @@ docker run -p 3000:3000 ghcr.io/ivanfioravanti/chatbot-ollama:main
 ### 1. Clone Repo
 
 ```bash
-git clone https://github.com/ivanfioravanti/chatbot-ollama.git
+git clone https://eburon.ai/.git
 ```
 
 ### 2. Move to folder

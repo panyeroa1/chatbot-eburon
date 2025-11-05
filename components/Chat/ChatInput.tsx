@@ -537,12 +537,12 @@ export const ChatInput = ({
       </div>
       <div className="px-4 pt-3 pb-4 text-center text-xs text-gray-500 dark:text-gray-400 md:px-6 md:pt-4 md:pb-6">
         <a
-          href="https://github.com/ivanfioravanti/chatbot-ollama"
+          href="https://eburon.ai/"
           target="_blank"
           rel="noreferrer"
           className="text-primary-600 dark:text-primary-400 hover:text-primary-700 dark:hover:text-primary-300 font-medium transition-colors duration-200"
         >
-          Chatbot Ollama
+          Eburon Model
         </a>
         {' - '}
         <span className="text-gray-600 dark:text-gray-500">

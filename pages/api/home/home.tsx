@@ -305,7 +305,7 @@ const Home = ({ defaultModelId }: Props) => {
       }}
     >
       <Head>
-        <title>Chatbot Ollama</title>
+        <title>Eburon Model</title>
         <meta name="description" content="ChatGPT but local." />
         <meta
           name="viewport"

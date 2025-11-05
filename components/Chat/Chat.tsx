@@ -478,7 +478,7 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
                           <span className="text-gray-600 dark:text-gray-300">Loading models...</span>
                         </div>
                       ) : (
-                        'Chatbot Ollama'
+                        'Eburon Model'
                       )}
                     </h1>
                     <p className="text-gray-600 dark:text-gray-400 text-lg animate-slide-up">
